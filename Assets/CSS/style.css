@@ -1,0 +1,134 @@
+.article h1{
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    color: #3b4045;
+}
+.article p{
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    color: #3b4045;
+}
+
+.btn-warning{
+    color: #fff;
+    border-radius: 30px;
+    background-color: #f9a743;
+    border-radius: 30px;
+    font-size: 18px;
+    padding: 15px 40px;
+    display: inline-block;
+    background-color: #f9a743;
+    box-shadow: 0 15px 40px;
+}
+
+.feature{
+    padding: 100px 0px;
+}
+.feature h1{
+font-family: "Josefin Sans", sans-serif;
+padding: 70px 0px;
+text-transform: capitalize;
+font-weight: 700;
+font-size: 40px;
+line-height: 40px;
+}
+
+
+
+.feature b{
+    color: #3b4045;
+    font-family: "Josefin Sans", sans-serif;
+    padding-bottom: 15px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    }
+
+    .feature p{
+        color: #687078;
+        font-family: "Josefin Sans", sans-serif;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    main{
+        background-color: #f9a743;
+        padding: 100px 0px;
+    }
+
+    main .article h2{
+        color: #fff;
+        font-family: "Josefin Sans", sans-serif;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 45px;
+        padding: 20px 0px;
+        letter-spacing: .5px;
+        text-transform: capitalize;
+    }
+    main .article p{
+        color: #fff;
+        font-family: "Josefin Sans", sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 25px;
+    }
+
+.feature-list-caption{
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: #3c3c3c;
+}
+    
+.feature-list-inner h2{
+    color: #3c3c3c;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 45px;
+    padding: 20px 0px;
+    letter-spacing: .5px;
+    text-transform: capitalize;
+}
+.review h1{
+    font-family: "Josefin Sans", sans-serif;
+padding: 0px 0px;
+text-transform: capitalize;
+font-weight: 700;
+font-size: 40px;
+line-height: 40px;
+color: #3c3c3c;
+
+}
+
+.review p{
+font-family: "Droid Serif", serif;
+font-size: 16px;
+color: #777;
+font-weight: 300;
+font-style: italic;
+padding: 20px;
+
+}
+
+.footer-inner li a{
+    font-family: "Josefin Sans", sans-serif;
+font-size: 14px;
+color: #444;
+font-weight: 700;
+padding: 20px;
+text-transform: uppercase;
+}
+
+.footer-inner p{
+    font-family: "Josefin Sans", sans-serif;
+font-size: 12px;
+color: #888;
+font-weight: 300;
+padding: 20px;
+text-transform: capitalize;
+}
